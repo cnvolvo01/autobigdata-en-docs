@@ -1,0 +1,23 @@
+{
+  "name": "autobigdata-api-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AutoBigData 开放平台接口文档",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "node scripts/generate-llms.mjs && vitepress build docs",
+    "preview": "vitepress preview docs",
+    "dev:en": "vitepress dev docs-en",
+    "build:en": "node scripts/generate-llms-en.mjs && vitepress build docs-en",
+    "preview:en": "vitepress preview docs-en",
+    "docs:organize": "node scripts/organize-docs.mjs",
+    "docs:llms": "node scripts/generate-llms.mjs",
+    "docs:llms:en": "node scripts/generate-llms-en.mjs",
+    "check:en-translation": "node scripts/check-en-translation.mjs --report=reports/en-translation-review.md",
+    "check:en-translation:strict": "node scripts/check-en-translation.mjs --check --report=reports/en-translation-review.md"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

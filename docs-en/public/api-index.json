@@ -1,0 +1,338 @@
+{
+  "site": "AutoBigData Open Platform · Automotive Data API Documentation",
+  "baseUrl": "https://en.autobigdata.com",
+  "count": 45,
+  "categories": [
+    "VIN & Model",
+    "Used Car Valuation",
+    "Accident & Claims",
+    "Vehicle Transfer & Condition",
+    "Auto Finance — Car 5 Essentials",
+    "Auto Finance — Person-Vehicle Verification",
+    "Auto Insurance",
+    "NEV Three-Electric Systems",
+    "New Car Sales Analysis",
+    "Auto Market Research",
+    "Global Market Analysis",
+    "Used Car Transaction Volume",
+    "Power BI Solutions",
+    "Overview"
+  ],
+  "apis": [
+    {
+      "title": "Accident Summary Mini",
+      "category": "Accident & Claims",
+      "order": 1,
+      "url": "https://en.autobigdata.com/accident-summary-mini",
+      "description": "\"Quickly understand a vehicle's claim count, claim amount, and major loss situation.\""
+    },
+    {
+      "title": "Battery Report - BatteryInfo",
+      "category": "NEV Three-Electric Systems",
+      "order": 1,
+      "url": "https://en.autobigdata.com/battery-report-batteryinfo",
+      "description": "\"Judge vehicle condition and price based on battery health, capacity, range, and mileage.\""
+    },
+    {
+      "title": "Commercial Auto Insurance Expiry",
+      "category": "Auto Insurance",
+      "order": 1,
+      "url": "https://en.autobigdata.com/commercial-insurance-expiry",
+      "description": "\"Remind owners to renew before expiry based on remaining days, at 30-day, 60-day, and other milestones.\""
+    },
+    {
+      "title": "Company Profile",
+      "category": "Overview",
+      "order": 1,
+      "url": "https://en.autobigdata.com/company-profile",
+      "description": "\"Beijing AutoData Consulting Co., Ltd. was founded in July 2015. AUTODATA, meaning 'automotive data', is a professional automotive market data service provider. Shuimu Siyuan (Tianjin) Technology Co., Ltd., founded in January 2016, is its subsidiary.\""
+    },
+    {
+      "title": "Passenger Vehicle Monthly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 1,
+      "url": "https://en.autobigdata.com/passenger-vehicle-monthly-sales",
+      "description": "\"Monthly passenger vehicle sales based on first-time compulsory-insurance registrations: the number of new vehicles insured for compulsory insurance for the first time, aggregated by month and mapped to brand, series, trim, and energy type via VIN.\""
+    },
+    {
+      "title": "Power BI Custom Development",
+      "category": "Power BI Solutions",
+      "order": 1,
+      "url": "https://en.autobigdata.com/powerbi-custom-development",
+      "description": "\"> Data analytics services for automotive clients | From Excel to AI-assisted decisions, one-stop\""
+    },
+    {
+      "title": "Battery Assessment",
+      "category": "NEV Three-Electric Systems",
+      "order": 2,
+      "url": "https://en.autobigdata.com/battery-assessment",
+      "description": "\"Judge vehicle condition and price based on battery health, range, capacity, mileage, and estimated battery value.\""
+    },
+    {
+      "title": "Commercial Vehicle Monthly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 2,
+      "url": "https://en.autobigdata.com/commercial-vehicle-monthly-sales",
+      "description": "\"Monthly commercial vehicle sales based on first-time compulsory-insurance registrations: the number of new vehicles insured for compulsory insurance for the first time, aggregated by month and mapped to brand, series, trim, and energy type via VIN.\""
+    },
+    {
+      "title": "Compulsory Insurance Expiry",
+      "category": "Auto Insurance",
+      "order": 2,
+      "url": "https://en.autobigdata.com/compulsory-insurance-expiry",
+      "description": "\"Remind owners to renew before expiry based on remaining days, at 30-day, 60-day, and other milestones.\""
+    },
+    {
+      "title": "Largest Claim",
+      "category": "Accident & Claims",
+      "order": 2,
+      "url": "https://en.autobigdata.com/largest-claim",
+      "description": "\"Judge the severity of a vehicle's major accident, repair scope, and depreciation.\""
+    },
+    {
+      "title": "Claims - Claimsdata_simple",
+      "category": "Accident & Claims",
+      "order": 3,
+      "url": "https://en.autobigdata.com/claims-simple",
+      "description": "\"Judge whether a vehicle has obvious accident risk through simplified claims information.\""
+    },
+    {
+      "title": "Electrification Configuration Database",
+      "category": "NEV Three-Electric Systems",
+      "order": 3,
+      "url": "https://en.autobigdata.com/electrification-config-database",
+      "description": "\"Reconstruct model-level supplier relationships and compute supplier share across cell, pack, BMS, main and auxiliary drive motors, e-control, reducer, OBC/DC-DC/PDU, and power device supplier fields.\""
+    },
+    {
+      "title": "Insurance Region (VIN)",
+      "category": "Auto Insurance",
+      "order": 3,
+      "url": "https://en.autobigdata.com/insurance-region-vin",
+      "description": "\"Judge vehicle usage years and information consistency by combining first registration date and insurance time.\""
+    },
+    {
+      "title": "Special-purpose Vehicle Monthly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 3,
+      "url": "https://en.autobigdata.com/special-purpose-vehicle-monthly-sales",
+      "description": "\"Observe special-purpose vehicle demand changes by month, region, and model.\""
+    },
+    {
+      "title": "ADAS Configuration Database",
+      "category": "NEV Three-Electric Systems",
+      "order": 4,
+      "url": "https://en.autobigdata.com/adas-config-database",
+      "description": "\"Compare model intelligent-equipment levels and standard/optional differences using LDW, LKA, ACC, AEB, highway and urban NOA, and automated/remote/memory/valet parking function fields.\""
+    },
+    {
+      "title": "Claims Report - InsuranceReportByVIN",
+      "category": "Accident & Claims",
+      "order": 4,
+      "url": "https://en.autobigdata.com/insurance-report-by-vin",
+      "description": "\"Obtain relatively complete insurance and claims records by VIN to support acquisition decisions.\""
+    },
+    {
+      "title": "Insurance Region (License Plate)",
+      "category": "Auto Insurance",
+      "order": 4,
+      "url": "https://en.autobigdata.com/insurance-region-plate",
+      "description": "\"Judge vehicle usage years and information consistency by combining first registration date and insurance time.\""
+    },
+    {
+      "title": "Passenger Vehicle Weekly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 4,
+      "url": "https://en.autobigdata.com/passenger-vehicle-weekly-sales",
+      "description": "\"New data has been paused; only historical years are available.\""
+    },
+    {
+      "title": "CIECC Claim Report",
+      "category": "Accident & Claims",
+      "order": 5,
+      "url": "https://en.autobigdata.com/ciecc-claim-report",
+      "description": "\"Apply for a complete claim report before acquisition, replacement, and delivery.\""
+    },
+    {
+      "title": "Commercial Vehicle Weekly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 5,
+      "url": "https://en.autobigdata.com/commercial-vehicle-weekly-sales",
+      "description": "\"New data has been paused; only historical years are available.\""
+    },
+    {
+      "title": "First Registration Date & Insurance Month (VIN)",
+      "category": "Auto Insurance",
+      "order": 5,
+      "url": "https://en.autobigdata.com/first-registration-insurance-month",
+      "description": "\"Judge vehicle age through the first registration date, supporting used car valuation and finance term review.\""
+    },
+    {
+      "title": "Operating Vehicle Weekly Sales",
+      "category": "New Car Sales Analysis",
+      "order": 6,
+      "url": "https://en.autobigdata.com/operating-vehicle-weekly-sales",
+      "description": "\"Track new operating-vehicle additions and brand/type changes on a weekly basis.\""
+    },
+    {
+      "title": "Passenger Vehicle Model Library",
+      "category": "VIN & Model",
+      "order": 103,
+      "url": "https://en.autobigdata.com/passenger-vehicle-model-library",
+      "description": "\"The passenger vehicle model library is a structured model-data platform covering sedans, SUVs, MPVs, and sports cars, including conventional fuel and new-energy passenger vehicles.\""
+    },
+    {
+      "title": "VIN Model Lookup (High Precision) - GetModelByVIN",
+      "category": "VIN & Model",
+      "order": 105,
+      "url": "https://en.autobigdata.com/vin-model-getmodelbyvin",
+      "description": "\"Match brand, series, model, and configuration through the VIN to reduce manual data entry.\""
+    },
+    {
+      "title": "Global Vehicle Sales",
+      "category": "Global Market Analysis",
+      "order": 211,
+      "url": "https://en.autobigdata.com/global-vehicle-sales",
+      "description": "\"Compare sales scale and market share by country, brand, group, vehicle class, and month.\""
+    },
+    {
+      "title": "Secondary-channel Wholesale Price Monitoring",
+      "category": "Auto Market Research",
+      "order": 214,
+      "url": "https://en.autobigdata.com/secondary-channel-wholesale-price",
+      "description": "\"Track secondary-channel wholesale price changes across regions, brands, and models.\""
+    },
+    {
+      "title": "Vehicle Parc",
+      "category": "Auto Market Research",
+      "order": 215,
+      "url": "https://en.autobigdata.com/vehicle-parc",
+      "description": "\"Compare vehicle parc and growth trends across provinces and cities to identify key markets.\""
+    },
+    {
+      "title": "Additional Purchase & Replacement",
+      "category": "Auto Market Research",
+      "order": 221,
+      "url": "https://en.autobigdata.com/additional-purchase-replacement",
+      "description": "\"Analyze the additional-purchase and replacement demand scale across regions, brands, and models.\""
+    },
+    {
+      "title": "Transaction Volume & City Flow",
+      "category": "Used Car Transaction Volume",
+      "order": 301,
+      "url": "https://en.autobigdata.com/transaction-volume-city-flow",
+      "description": "\"Count transaction scale and cross-province/city vehicle flow to identify active markets.\""
+    },
+    {
+      "title": "Transaction Volume, Age, Mileage & Price",
+      "category": "Used Car Transaction Volume",
+      "order": 302,
+      "url": "https://en.autobigdata.com/transaction-volume-age-mileage-price",
+      "description": "\"Build a price reference for comparable vehicles by combining vehicle age, mileage, and transaction price.\""
+    },
+    {
+      "title": "Used Car Value Retention Rate",
+      "category": "Used Car Valuation",
+      "order": 303,
+      "url": "https://en.autobigdata.com/used-car-value-retention",
+      "description": "\"Compare value retention levels by brand, model, and vehicle age to support acquisition pricing.\""
+    },
+    {
+      "title": "Valuation - GetUsedPriceMileAgeCity",
+      "category": "Used Car Valuation",
+      "order": 315,
+      "url": "https://en.autobigdata.com/valuation-getusedpricemileagecity",
+      "description": "\"Generate a valuation reference by combining factors such as vehicle age, mileage, and city.\""
+    },
+    {
+      "title": "Person-Vehicle Verification",
+      "category": "Auto Finance — Person-Vehicle Verification",
+      "order": 401,
+      "url": "https://en.autobigdata.com/person-vehicle-verification",
+      "description": "\"Verify the association between the applicant, the vehicle, and the business documents.\""
+    },
+    {
+      "title": "Car5meta",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 402,
+      "url": "https://en.autobigdata.com/car5meta",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    },
+    {
+      "title": "Car7meta",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 403,
+      "url": "https://en.autobigdata.com/car7meta",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    },
+    {
+      "title": "China Passenger Vehicle Exports",
+      "category": "Global Market Analysis",
+      "order": 801,
+      "url": "https://en.autobigdata.com/china-passenger-vehicle-exports",
+      "description": "\"Analyze the scale, brand structure, and model structure of China's passenger vehicle exports to different destination countries.\""
+    },
+    {
+      "title": "China Commercial Vehicle Exports",
+      "category": "Global Market Analysis",
+      "order": 802,
+      "url": "https://en.autobigdata.com/china-commercial-vehicle-exports",
+      "description": "\"Analyze the overseas export scale and model structure of commercial vehicle products such as heavy and light trucks.\""
+    },
+    {
+      "title": "Vehicle Ownership Transfer Count",
+      "category": "Vehicle Transfer & Condition",
+      "order": 1004,
+      "url": "https://en.autobigdata.com/title-transfer-count",
+      "description": "\"Judge vehicle transfer frequency to assist pricing, acquisition, and sale.\""
+    },
+    {
+      "title": "Owner Consistency Verification (Compulsory & Commercial)",
+      "category": "Auto Finance — Person-Vehicle Verification",
+      "order": 1005,
+      "url": "https://en.autobigdata.com/owner-consistency-verification",
+      "description": "\"Verify the consistency between the vehicle and its current owner using VIN, owner ID number, and insurance information.\""
+    },
+    {
+      "title": "Insurance Transfer Count (VIN)",
+      "category": "Vehicle Transfer & Condition",
+      "order": 1008,
+      "url": "https://en.autobigdata.com/insurance-transfer-count-vin",
+      "description": "\"Judge vehicle transfer frequency to assist pricing, acquisition, and sale.\""
+    },
+    {
+      "title": "Insurance Transfer Count (License Plate)",
+      "category": "Vehicle Transfer & Condition",
+      "order": 1009,
+      "url": "https://en.autobigdata.com/insurance-transfer-count-plate",
+      "description": "\"Judge vehicle transfer frequency to assist pricing, acquisition, and sale.\""
+    },
+    {
+      "title": "Car5Meta V2 (VIN)",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 1017,
+      "url": "https://en.autobigdata.com/car5meta-v2-vin",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    },
+    {
+      "title": "Car5Meta V2 (License Plate)",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 1018,
+      "url": "https://en.autobigdata.com/car5meta-v2-plate",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    },
+    {
+      "title": "Car7Meta V2 (VIN)",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 1021,
+      "url": "https://en.autobigdata.com/car7meta-v2-vin",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    },
+    {
+      "title": "Car7Meta V2 (License Plate)",
+      "category": "Auto Finance — Car 5 Essentials",
+      "order": 1022,
+      "url": "https://en.autobigdata.com/car7meta-v2-plate",
+      "description": "\"Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans.\""
+    }
+  ]
+}

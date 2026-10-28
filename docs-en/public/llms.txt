@@ -1,0 +1,94 @@
+# AutoBigData Open Platform · Automotive Data API Documentation
+
+> Full-value-chain automotive data and API services covering vehicle basic data, new cars, used cars, auto finance, and NEV three-electric systems.
+
+## Overview
+
+- [Data & API Overview](https://en.autobigdata.com/): a capability index of the whole platform, organized by business capability.
+
+## VIN & Model
+
+- [Passenger Vehicle Model Library](https://en.autobigdata.com/passenger-vehicle-model-library): "The passenger vehicle model library is a structured model-data platform covering sedans, SUVs, MPVs, and sports cars, including conventional fuel and new-energy passenger vehicles."
+- [VIN Model Lookup (High Precision) - GetModelByVIN](https://en.autobigdata.com/vin-model-getmodelbyvin): "Match brand, series, model, and configuration through the VIN to reduce manual data entry."
+
+## Used Car Valuation
+
+- [Used Car Value Retention Rate](https://en.autobigdata.com/used-car-value-retention): "Compare value retention levels by brand, model, and vehicle age to support acquisition pricing."
+- [Valuation - GetUsedPriceMileAgeCity](https://en.autobigdata.com/valuation-getusedpricemileagecity): "Generate a valuation reference by combining factors such as vehicle age, mileage, and city."
+
+## Accident & Claims
+
+- [Accident Summary Mini](https://en.autobigdata.com/accident-summary-mini): "Quickly understand a vehicle's claim count, claim amount, and major loss situation."
+- [Largest Claim](https://en.autobigdata.com/largest-claim): "Judge the severity of a vehicle's major accident, repair scope, and depreciation."
+- [Claims - Claimsdata_simple](https://en.autobigdata.com/claims-simple): "Judge whether a vehicle has obvious accident risk through simplified claims information."
+- [Claims Report - InsuranceReportByVIN](https://en.autobigdata.com/insurance-report-by-vin): "Obtain relatively complete insurance and claims records by VIN to support acquisition decisions."
+- [CIECC Claim Report](https://en.autobigdata.com/ciecc-claim-report): "Apply for a complete claim report before acquisition, replacement, and delivery."
+
+## Vehicle Transfer & Condition
+
+- [Vehicle Ownership Transfer Count](https://en.autobigdata.com/title-transfer-count): "Judge vehicle transfer frequency to assist pricing, acquisition, and sale."
+- [Insurance Transfer Count (VIN)](https://en.autobigdata.com/insurance-transfer-count-vin): "Judge vehicle transfer frequency to assist pricing, acquisition, and sale."
+- [Insurance Transfer Count (License Plate)](https://en.autobigdata.com/insurance-transfer-count-plate): "Judge vehicle transfer frequency to assist pricing, acquisition, and sale."
+
+## Auto Finance — Car 5 Essentials
+
+- [Car5meta](https://en.autobigdata.com/car5meta): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+- [Car7meta](https://en.autobigdata.com/car7meta): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+- [Car5Meta V2 (VIN)](https://en.autobigdata.com/car5meta-v2-vin): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+- [Car5Meta V2 (License Plate)](https://en.autobigdata.com/car5meta-v2-plate): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+- [Car7Meta V2 (VIN)](https://en.autobigdata.com/car7meta-v2-vin): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+- [Car7Meta V2 (License Plate)](https://en.autobigdata.com/car7meta-v2-plate): "Supplement model, engine, and first registration date via VIN or license plate to simplify data entry for auto loans and owner loans."
+
+## Auto Finance — Person-Vehicle Verification
+
+- [Person-Vehicle Verification](https://en.autobigdata.com/person-vehicle-verification): "Verify the association between the applicant, the vehicle, and the business documents."
+- [Owner Consistency Verification (Compulsory & Commercial)](https://en.autobigdata.com/owner-consistency-verification): "Verify the consistency between the vehicle and its current owner using VIN, owner ID number, and insurance information."
+
+## Auto Insurance
+
+- [Commercial Auto Insurance Expiry](https://en.autobigdata.com/commercial-insurance-expiry): "Remind owners to renew before expiry based on remaining days, at 30-day, 60-day, and other milestones."
+- [Compulsory Insurance Expiry](https://en.autobigdata.com/compulsory-insurance-expiry): "Remind owners to renew before expiry based on remaining days, at 30-day, 60-day, and other milestones."
+- [Insurance Region (VIN)](https://en.autobigdata.com/insurance-region-vin): "Judge vehicle usage years and information consistency by combining first registration date and insurance time."
+- [Insurance Region (License Plate)](https://en.autobigdata.com/insurance-region-plate): "Judge vehicle usage years and information consistency by combining first registration date and insurance time."
+- [First Registration Date & Insurance Month (VIN)](https://en.autobigdata.com/first-registration-insurance-month): "Judge vehicle age through the first registration date, supporting used car valuation and finance term review."
+
+## NEV Three-Electric Systems
+
+- [Battery Report - BatteryInfo](https://en.autobigdata.com/battery-report-batteryinfo): "Judge vehicle condition and price based on battery health, capacity, range, and mileage."
+- [Battery Assessment](https://en.autobigdata.com/battery-assessment): "Judge vehicle condition and price based on battery health, range, capacity, mileage, and estimated battery value."
+- [Electrification Configuration Database](https://en.autobigdata.com/electrification-config-database): "Reconstruct model-level supplier relationships and compute supplier share across cell, pack, BMS, main and auxiliary drive motors, e-control, reducer, OBC/DC-DC/PDU, and power device supplier fields."
+- [ADAS Configuration Database](https://en.autobigdata.com/adas-config-database): "Compare model intelligent-equipment levels and standard/optional differences using LDW, LKA, ACC, AEB, highway and urban NOA, and automated/remote/memory/valet parking function fields."
+
+## New Car Sales Analysis
+
+- [Passenger Vehicle Monthly Sales](https://en.autobigdata.com/passenger-vehicle-monthly-sales): "Monthly passenger vehicle sales based on first-time compulsory-insurance registrations: the number of new vehicles insured for compulsory insurance for the first time, aggregated by month and mapped to brand, series, trim, and energy type via VIN."
+- [Commercial Vehicle Monthly Sales](https://en.autobigdata.com/commercial-vehicle-monthly-sales): "Monthly commercial vehicle sales based on first-time compulsory-insurance registrations: the number of new vehicles insured for compulsory insurance for the first time, aggregated by month and mapped to brand, series, trim, and energy type via VIN."
+- [Special-purpose Vehicle Monthly Sales](https://en.autobigdata.com/special-purpose-vehicle-monthly-sales): "Observe special-purpose vehicle demand changes by month, region, and model."
+- [Passenger Vehicle Weekly Sales](https://en.autobigdata.com/passenger-vehicle-weekly-sales): "New data has been paused; only historical years are available."
+- [Commercial Vehicle Weekly Sales](https://en.autobigdata.com/commercial-vehicle-weekly-sales): "New data has been paused; only historical years are available."
+- [Operating Vehicle Weekly Sales](https://en.autobigdata.com/operating-vehicle-weekly-sales): "Track new operating-vehicle additions and brand/type changes on a weekly basis."
+
+## Auto Market Research
+
+- [Secondary-channel Wholesale Price Monitoring](https://en.autobigdata.com/secondary-channel-wholesale-price): "Track secondary-channel wholesale price changes across regions, brands, and models."
+- [Vehicle Parc](https://en.autobigdata.com/vehicle-parc): "Compare vehicle parc and growth trends across provinces and cities to identify key markets."
+- [Additional Purchase & Replacement](https://en.autobigdata.com/additional-purchase-replacement): "Analyze the additional-purchase and replacement demand scale across regions, brands, and models."
+
+## Global Market Analysis
+
+- [Global Vehicle Sales](https://en.autobigdata.com/global-vehicle-sales): "Compare sales scale and market share by country, brand, group, vehicle class, and month."
+- [China Passenger Vehicle Exports](https://en.autobigdata.com/china-passenger-vehicle-exports): "Analyze the scale, brand structure, and model structure of China's passenger vehicle exports to different destination countries."
+- [China Commercial Vehicle Exports](https://en.autobigdata.com/china-commercial-vehicle-exports): "Analyze the overseas export scale and model structure of commercial vehicle products such as heavy and light trucks."
+
+## Used Car Transaction Volume
+
+- [Transaction Volume & City Flow](https://en.autobigdata.com/transaction-volume-city-flow): "Count transaction scale and cross-province/city vehicle flow to identify active markets."
+- [Transaction Volume, Age, Mileage & Price](https://en.autobigdata.com/transaction-volume-age-mileage-price): "Build a price reference for comparable vehicles by combining vehicle age, mileage, and transaction price."
+
+## Power BI Solutions
+
+- [Power BI Custom Development](https://en.autobigdata.com/powerbi-custom-development): "> Data analytics services for automotive clients | From Excel to AI-assisted decisions, one-stop"
+
+## Overview
+
+- [Company Profile](https://en.autobigdata.com/company-profile): "Beijing AutoData Consulting Co., Ltd. was founded in July 2015. AUTODATA, meaning 'automotive data', is a professional automotive market data service provider. Shuimu Siyuan (Tianjin) Technology Co., Ltd., founded in January 2016, is its subsidiary."
